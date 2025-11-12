@@ -14,7 +14,7 @@ public class Person {
 
     public static void main(String[] args) {
         Person p = new Person();
-        p.setName("Rifat");
+        p.setName("Habib");
         p.setAge(20);
         p.setCountry("Bangladesh");
 
